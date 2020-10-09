@@ -1,1 +1,1 @@
-# Django Tutorial From Edureka
+# Testing Django Framework
